@@ -1,1 +1,1 @@
-Using modals to make a website.
+This project is a web page designed as part of a database system lab assignment. It features images and information about the University of Idaho, leveraging Bootstrap for styling and layout. The page includes interactive modal dialogs triggered by clicking images, providing additional details about the selected topics
